@@ -18,5 +18,5 @@ namespace WindowsFormsStudy
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmHome());
         }
-    }
+    }   
 }
