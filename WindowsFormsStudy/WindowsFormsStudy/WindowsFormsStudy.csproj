@@ -55,6 +55,8 @@
     <Compile Include="frnHome.Designer.cs">
       <DependentUpon>frnHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Insites.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frnHome.resx">
